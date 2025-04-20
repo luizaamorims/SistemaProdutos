@@ -50,9 +50,6 @@
 
             } while (opcao != 5);
 
-
-
-
         }
 
         static void CadastrarProduto(Produto p1)
