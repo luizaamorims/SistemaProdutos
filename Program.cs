@@ -12,9 +12,7 @@
 
 
             do
-
             {
-
                 Console.WriteLine("MENU");
                 Console.WriteLine("1 - Cadastrar Produto");
                 Console.WriteLine("2 - Listar Produtos");
